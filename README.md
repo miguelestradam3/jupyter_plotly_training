@@ -1,2 +1,4 @@
-# jupyter_plotly_training
+# Plotly training
+
+### Code on Jupyter notebook
 Done with the help of Coursera Guided Projects
